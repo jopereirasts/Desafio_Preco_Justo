@@ -1,7 +1,7 @@
 Passo a passo para rodar o teste automatizado do desafio:
 
-1. Descompacte o arquivo zipado
-Descompacte o arquivo que contém o projeto para a pasta desejada.
+1. Baixe o repositório e descompacte o arquivo zipado
+Baixe o repositório e Descompacte o arquivo que contém o projeto para a pasta desejada.
 
 2. Entre no terminal e navegue até o diretório Desafio_Tecnico
 
