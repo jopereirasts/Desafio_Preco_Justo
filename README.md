@@ -3,7 +3,7 @@ Passo a passo para rodar o teste automatizado do desafio:
 1. Baixe o repositório e descompacte o arquivo zipado
 Baixe o repositório e Descompacte o arquivo que contém o projeto para a pasta desejada.
 
-2. Entre no terminal e navegue até o diretório Desafio_Tecnico
+2. Entre no terminal e navegue até o diretório acima.
 
 3. Instale as dependências necessárias
 Execute o comando abaixo para instalar o Cypress e o pacote adicional web-vitals:
@@ -37,3 +37,5 @@ Após clicar no arquivo desafio_automatizado.cy.js, o Cypress começará a execu
 
 9. Verifique os resultados dos testes
 A interface gráfica exibirá o resultado de cada teste, incluindo se houve falhas ou se todos os testes passaram.
+
+10. Os códigos desenvolvidos para o teste automatizado está no arquivo desafio_automatizado.cy.js na pasta cypress/e2e.
