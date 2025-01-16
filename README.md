@@ -1,4 +1,4 @@
-Passo a passo para rodar o teste automatizado do desafio
+Passo a passo para rodar o teste automatizado do desafio:
 
 1. Descompacte o arquivo zipado
 Descompacte o arquivo que contém o projeto para a pasta desejada.
